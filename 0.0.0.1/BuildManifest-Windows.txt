@@ -1,3 +1,3 @@
 $NUM_ENTRIES = 1
 $BUILD_ID = 0.0.0.1
-0.0.0.2_Windows_001_P.pak 688804 verA /Windows/0.0.0.2_Windows_001_P.pak
+0.0.0.2_Windows_001_P.pak 688804 verA 0 /Windows/0.0.0.2_Windows_001_P.pak
